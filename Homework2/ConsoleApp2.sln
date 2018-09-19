@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2", "ConsoleApp2\Program2.csproj", "{2B18B752-FC3B-40A7-A6D2-E47D241E6964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program1", "ConsoleApp1\Program1.csproj", "{4AD9E2ED-1A7E-49B6-99C2-9D49F38FAA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program3", "ConsoleApp3\Program3.csproj", "{6961CC2D-7AC9-4E47-A466-1C87F8146C70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B18B752-FC3B-40A7-A6D2-E47D241E6964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B18B752-FC3B-40A7-A6D2-E47D241E6964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B18B752-FC3B-40A7-A6D2-E47D241E6964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B18B752-FC3B-40A7-A6D2-E47D241E6964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD9E2ED-1A7E-49B6-99C2-9D49F38FAA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD9E2ED-1A7E-49B6-99C2-9D49F38FAA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD9E2ED-1A7E-49B6-99C2-9D49F38FAA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD9E2ED-1A7E-49B6-99C2-9D49F38FAA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6961CC2D-7AC9-4E47-A466-1C87F8146C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6961CC2D-7AC9-4E47-A466-1C87F8146C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6961CC2D-7AC9-4E47-A466-1C87F8146C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6961CC2D-7AC9-4E47-A466-1C87F8146C70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AEC4E76-B854-429B-89AA-1C79B62EC713}
+	EndGlobalSection
+EndGlobal
